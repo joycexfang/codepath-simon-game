@@ -37,18 +37,16 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](https://i.imgur.com/itf93ay.gif)
-![](https://i.imgur.com/iOj2kO4.gif)
+![](https://i.imgur.com/52HadY3.gif)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/5iMmmjW.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
     * canva.com for the logo
-  
     * https://webgradients.com/ for the gradient background
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
